@@ -6,7 +6,7 @@
 
 코딩강의를 위한 새로운 화상강의 플랫폼 코드클래스 입니다! 라이브코딩 기능과 코딩기록 기능을 이용하여 좀더 교육자와 학생이 소통을 쉽게 할 수 있도록 구성했습니다.
 
-[![CODECLASS](https://user-images.githubusercontent.com/80251711/122398723-1eefe300-cfb5-11eb-94b7-02d6932c169b.png)
+![CODECLASS](https://user-images.githubusercontent.com/80251711/122398723-1eefe300-cfb5-11eb-94b7-02d6932c169b.png)
 
 ## 프로젝트 구성안내
 
