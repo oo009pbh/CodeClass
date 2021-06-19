@@ -5,6 +5,7 @@
 ## 소개
 
 코딩강의를 위한 새로운 화상강의 플랫폼 코드클래스 입니다! 라이브코딩 기능과 코딩기록 기능을 이용하여 좀더 교육자와 학생이 소통을 쉽게 할 수 있도록 구성했습니다.
+팀원 : 이충무, 박병훈, 오창민, 변효근, 이준규
 
 ![CODECLASS](https://user-images.githubusercontent.com/80251711/122398723-1eefe300-cfb5-11eb-94b7-02d6932c169b.png)
 
@@ -13,8 +14,7 @@
 우리 프로그램의 구조입니다.
 
 ![img](https://lh3.googleusercontent.com/-WlJHTbApq4UzHvv9hs0cT5RhH1Kx5lHbmYYt-itXnMP1TrYbQwHtCS-NxrJSIsZ9PU_nEv-AyaJSMiEwRMIj-OMW87jLxT4gIQGSW6q_Vy_A-lz6JEIZGFgHCA0VX4JdWLRwgqE)
-
-
+팀
 
 ## 프로젝트 설치 및 실행법
 
